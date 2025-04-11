@@ -28,7 +28,7 @@
     <br>进度：0% 
 3. 四期完成music接口改造，可以使用登录用户的网易云/酷狗加载个性化播放列表
     <br>进度：0% 
-4. 后端项目地址：<a href="https://gitee.com/ichargehub/icharge-server">后端项目</a>
+4. 后端项目地址：<a href="https://github.com/lovbe0210/icharge-server">后端项目</a>
 
 ### 效果预览图
 #### 首页：
